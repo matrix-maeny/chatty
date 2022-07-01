@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/banner_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/banner_bg_2.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/banner_bg_layer1.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/edit_text_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/reciever_chat_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/register_btn_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/sender_chat_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/drawable/sign_up_cover_bg.xml" value="0.121" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_about.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_sign_up.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/activity_splash_screen.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/add_friend_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/chat_friend_model.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/chat_model.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/content_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/fragment_chats.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/layout/fragment_profile.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4345703125" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/menu/chat_menu.xml" value="0.4" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/menu/popup_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/menu/profile_edit_menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Chatty/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

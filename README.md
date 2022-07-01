@@ -11,5 +11,9 @@
  -This app hasn't any notification features.
 
  Serial no: 50, Date of creation: 26 June 2022
+ 
+ ### Play Store Link
+ 
+ https://play.google.com/store/apps/details?id=com.matrix_maeny.habitdeveloper
 
               
